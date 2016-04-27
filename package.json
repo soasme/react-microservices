@@ -1,0 +1,23 @@
+{
+  "name": "react-microservices",
+  "version": "0.1.0",
+  "description": "Describe microservices architecture via react.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soasme/react-microservices.git"
+  },
+  "keywords": [
+    "react",
+    "microservices"
+  ],
+  "author": "Lin Ju",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soasme/react-microservices/issues"
+  },
+  "homepage": "https://github.com/soasme/react-microservices#readme"
+}
