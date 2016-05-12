@@ -1,10 +1,14 @@
-.. react-microservices documentation master file, created by
-   sphinx-quickstart on Thu May 12 15:23:17 2016.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Welcome to react-microservices's documentation!
 ===============================================
+
+react-microservices is a system component definition and API endpoints exposure tool.
+Unlink other normally seen web framework, react-microservices is easy to register
+a new system component and simple to use. react-microservices is aiming to:
+
+* Add a slight logic layer to glue your APIs.
+* Integrate with multiple system components that are powered by tons of services.
+* Draw a big blueprint of your entire system.
+
 
 Contents:
 
